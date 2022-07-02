@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(235, 249, 242);
+}
+.container-fluid{
+    background-color: rgb(235, 249, 242);
+    padding-top: 20px;
+    
+}
+.buttonS {
+    display: inline-block;
+    width: 100%;
+    padding: 16px;
+    margin: 1px;
+    background: #469b4d;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+.second{
+    display: flex;
+    background-color: rgb(235, 249, 242);
+    
+}
+.container-fluid-1{
+    padding-top: 40px;
+    margin-left: 70px;
+    margin-right: -10px;
+}
+.row{
+    background-color: rgb(255, 255, 255);
+}
+.card-img-top{
+    width: 10px;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+}
+.card{
+    height: 200px;
+        border-radius: 4px;
+        background: rgb(255, 255, 255);
+      padding: 14px 80px 18px 36px;
+      cursor: pointer;
+}
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
